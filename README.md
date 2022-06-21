@@ -1,6 +1,5 @@
 # Hi there, I'm @kaemxk | Kaburov Emil
 
-- 👋 Hi, I’m @kaemxk
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JS
 ## How to reach me 
